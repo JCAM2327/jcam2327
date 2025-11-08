@@ -22,7 +22,7 @@
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/josé-mondragón-pylq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/es/josé-mondragón-pylq" altura="30"
-<a href="https://kaggle.com/josmondragn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="josmondragn" height="30" width="40" /></a> </p>
+<a href="https://kaggle.com/josmondragn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="josmondragn" height="10" width="20" /></a> </p>
 <
 
 h3 align="left">Lenguajes y herramientas:</h3>
