@@ -33,7 +33,7 @@ Análisis de características musicales + modelado + visualización interactiva.
 ### 🌐 Conecta conmigo
 <p align="center">
 <a href="https://www.linkedin.com/in/josé-mondragón-pylq"><img src="https://img.shields.io/badge/LinkedIn-José%20Mondragón-blue?logo=linkedin&style=for-the-badge"></a>
-<a href="mailto:josemondragon25@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?logo=gmail&style=for-the-badge"></a>
+<a href="mailto:josemomdragon25@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-red?logo=gmail&style=for-the-badge"></a>
 <a href="https://kaggle.com/josmondragn"><img src="https://img.shields.io/badge/Kaggle-JosMondragn-blue?logo=kaggle&style=for-the-badge"></a>
 </p>
 
@@ -42,8 +42,9 @@ Análisis de características musicales + modelado + visualización interactiva.
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sqlite,mysql,git,linux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,d3,sklearn,mysql,postgres,git,linux,qt,redis,nodejs,django" />
 </p>
+
 
 ---
 
