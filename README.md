@@ -3,7 +3,11 @@
 
 - 🔭 Actualmente estoy trabajando en **The_Project_Spotify**
 
-- 🌱 Actualmente estoy aprendiendo **- Machine Learning aplicado a datos climáticos - Desarrollo web full-stack (Python + JavaScript) - SQL y Power BI para análisis de datos - Visualización científica en Python**
+- 🌱 Actualmente estoy aprendiendo
+    **- Machine Learning aplicado a datos climáticos
+      - Desarrollo web full-stack (Python + JavaScript)
+      - SQL y Power BI para análisis de datos
+      - Visualización científica en Python**
 
 - 👨‍💻 Todos mis proyectos están disponibles en este perfil [(Estoy construyendo mi portafolio web)]((Estoy construyendo mi portafolio web))
 
