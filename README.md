@@ -1,6 +1,7 @@
 <!-- Banner animado -->
+<h1 align="center" >¡Hola! Soy José Alayo Mondragón</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+José+Alayo+Mondragón;Científico+de+Datos+e+IA+en+formación;Mezclo+ciencia+con+programación+💻🧪;Bienvenido+a+mi+perfil+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=600&lines=Científico+de+Datos+e+IA+en+formación;Mezclo+ciencia+con+programación+💻🧪;Bienvenido+a+mi+perfil+✨" />
 </p>
 
 ---
@@ -27,7 +28,6 @@ Análisis de características musicales + modelado + visualización interactiva.
 
 ### 💬 Pregúntame sobre
 **Python · Limpieza de Datos · Streamlit · Tkinter · SQL · ML aplicado**
-
 ---
 
 ### 🌐 Conecta conmigo
@@ -37,6 +37,9 @@ Análisis de características musicales + modelado + visualización interactiva.
 <a href="https://kaggle.com/josmondragn"><img src="https://img.shields.io/badge/Kaggle-JosMondragn-blue?logo=kaggle&style=for-the-badge"></a>
 </p>
 
+- Ubicación : Mar del Plata, Buenos Aires
+
+- Contacto : josemomdragon25@gmail.com
 ---
 
 ## 🛠️ Tecnologías y Herramientas
