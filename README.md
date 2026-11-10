@@ -1,7 +1,7 @@
 # ¡Hola! Soy José Alayo Mondragón 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C2FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ciencia+de+Datos+e+IA;Explorando+la+intersección+entre+ciencia+y+tecnología;Construyendo+proyectos+con+Python+y+JavaScript+💻🧪" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=00C2FF&center=true&vCenter=true&width=650&lines=Estudiante+de+Ciencia+de+Datos+e+IA;Explorando+ciencia+y+tecnología💻🧪" />
 </p>
 
 ---
